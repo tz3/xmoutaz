@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moutaz</h1>
-<h3 align="center">A passionate Fullstack developer Based in Germany</h3>
+<h3 align="center">A passionate Backend developer Based in Germany</h3>
 
 - 👨‍💻 All of my projects are available at [http://projects.moutaz-chaara.com/](http://projects.moutaz-chaara.com/)
 
